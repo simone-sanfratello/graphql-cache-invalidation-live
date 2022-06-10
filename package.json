@@ -1,13 +1,13 @@
 {
   "name": "graphql-cache-invalidation-live",
   "version": "1.0.0",
-  "description": "",
+  "description": "graphql cache invalidation live coding",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Simone Sanfratello <simone.sanfra@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "fastify": "^3.28.0",
@@ -15,8 +15,5 @@
     "mercurius": "^9.3.6",
     "mercurius-cache": "^1.7.0",
     "undici": "^5.0.0"
-  },
-  "devDependencies": {
-    "pino-pretty": "^7.6.1"
   }
 }
